@@ -3,8 +3,8 @@
 	<param name="/motor_controller_device" type="string" value="/dev/serial0" />
 	<param name="/motor_controller_addresses" type="string" value="128,129,130,131,132" />
 
-	<param name="/enc_min" type="string" value="550,420,360,325" />
-	<param name="/enc_max" type="string" value="1480,1755,1240,1230" />
+    <param name="/enc_min" type="string" value="155,168,300,200" />
+    <param name="/enc_max" type="string" value="1310,1245,1475,1385" />
 
 	<param name="/qpps" type="string" value="0,0,0,0" />
 	<param name="/accel" type="string" value="0,0,0,0" />
